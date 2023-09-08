@@ -1,0 +1,58 @@
+{
+    "users": [
+      {
+        "name": "Premjeet",
+        "email": "prem@gmail.com",
+        "password": "prem@123",
+        "id": 1
+      },
+      {
+        "name": "sager",
+        "email": "sager@gmail.com",
+        "password": "sager@123",
+        "id": 2
+      },
+      {
+        "name": "priyanka",
+        "email": "priyanka@gmail.com",
+        "password": "priyanka@123",
+        "id": 3
+      },
+      {
+        "name": "reshma",
+        "email": "reshma@gmail.com",
+        "password": "reshma@123",
+        "id": 4
+      }
+    ],
+    "transactions": [
+      {
+        "type": "Income",
+        "category": "Trip",
+        "amount": "500000",
+        "date": "2023-08-30",
+        "id": 1
+      },
+      {
+        "type": "Expense",
+        "category": "Bills",
+        "amount": "600000",
+        "date": "2023-08-30",
+        "id": 2
+      },
+      {
+        "type": "Expense",
+        "category": "Salary",
+        "amount": "700000",
+        "date": "2023-08-30",
+        "id": 3
+      },
+      {
+        "type": "Income",
+        "category": "Other",
+        "amount": "200000",
+        "date": "2023-08-08",
+        "id": 4
+      }
+    ]
+  }
